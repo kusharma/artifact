@@ -1,6 +1,6 @@
 name: Pipeline
 
-on:[push]
+on: [push]
 env:
     APPLICATION_NAME: app2
 jobs:
